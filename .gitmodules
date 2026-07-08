@@ -1,6 +1,9 @@
-[submodule "docs/archive"]
-	path = docs/archive
-	url = https://github.com/quanttide/quanttide-archive-of-social-media
 [submodule "apps/qtcloud-media"]
 	path = apps/qtcloud-media
 	url = https://github.com/quanttide/qtcloud-media
+[submodule "data/archive"]
+	path = data/archive
+	url = https://github.com/quanttide/quanttide-archive-of-social-media.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-social-media.git
