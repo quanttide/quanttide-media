@@ -13,3 +13,12 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-social-media.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-social-media.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-social-media.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-social-media.git
