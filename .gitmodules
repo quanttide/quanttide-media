@@ -22,3 +22,6 @@
 [submodule "docs/specification"]
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-social-media.git
+[submodule "packages/default/quanttide-media-toolkit"]
+	path = packages/default/quanttide-media-toolkit
+	url = https://github.com/quanttide/quanttide-media-toolkit.git
