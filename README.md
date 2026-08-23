@@ -21,6 +21,7 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-media` | QtCloud 新媒体运营云 (git submodule) |
+| `apps/qtmedia` | 量潮媒体中心 (git submodule) |
 | `packages/quanttide-media-toolkit` | 新媒体运营工具集 (git submodule) |
 | `examples/default` | 新媒体运营实验室 (git submodule → quanttide-laboratory-of-social-media) |
 | `data/journal` | 新媒体运营日志 (git submodule → quanttide-journal-of-social-media) |
