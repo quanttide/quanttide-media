@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-media-lab`（仓 quanttide-laboratory-of-social-media → quanttide-media-lab）
+
+
 ### Changed
 - 重写 README：补全领域定义（概述、领域边界、子模块结构、许可 CC BY 4.0）
 - 新增 LICENSE（CC BY 4.0）

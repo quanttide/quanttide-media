@@ -10,9 +10,9 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-social-media.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-social-media.git
+[submodule "examples/quanttide-media-lab"]
+	path = examples/quanttide-media-lab
+	url = https://github.com/quanttide/quanttide-media-lab.git
 [submodule "docs/handbook"]
 	path = docs/handbook
 	url = https://github.com/quanttide/quanttide-handbook-of-social-media.git
