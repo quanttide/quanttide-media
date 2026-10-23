@@ -22,7 +22,7 @@
 |------|------|
 | `apps/qtcloud-media` | QtCloud 新媒体运营云 (git submodule) |
 | `apps/qtmedia` | 量潮媒体中心 (git submodule) |
-| `packages/quanttide-media-toolkit` | 新媒体运营工具集 (git submodule) |
+| `packages/quanttide-media-toolkit` | 新媒体运营标准库 (git submodule) |
 | `examples/quanttide-media-lab` | 新媒体运营实验室 (git submodule → quanttide-media-lab) |
 | `data/journal` | 新媒体运营日志 (git submodule → quanttide-journal-of-social-media) |
 | `data/intention` | 新媒体运营意图 (git submodule → quanttide-intention-of-social-media) |
