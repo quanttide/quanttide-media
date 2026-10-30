@@ -4,6 +4,7 @@
 
 ### 变更
 
+- `data/library` 新增 `wechat/yanxu.md`：言序 YanXu（toolsvip.cn）精品调研（中文排版引擎 + 公众号草稿箱直出 + MCP 接入），并新建 `wechat/` 目录
 - 实验室子模块改名：`examples/default` → `examples/quanttide-media-lab`（仓 quanttide-laboratory-of-social-media → quanttide-media-lab）
 
 
