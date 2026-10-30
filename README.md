@@ -29,6 +29,7 @@
 | `data/profile` | 新媒体运营档案 (git submodule → quanttide-profile-of-social-media) |
 | `data/archive` | 新媒体运营归档 (git submodule → quanttide-archive-of-social-media) |
 | `data/library` | 新媒体运营文库 (git submodule → quanttide-library-of-social-media) |
+| `data/brochure` | 新媒体运营宣传册 (git submodule → quanttide-brochure-of-social-media) |
 | `docs/handbook` | 新媒体运营手册 (git submodule → quanttide-handbook-of-social-media) |
 | `docs/tutorial` | 新媒体运营教程 (git submodule → quanttide-tutorial-of-social-media) |
 | `docs/specification` | 新媒体运营规范 (git submodule → quanttide-specification-of-social-media) |

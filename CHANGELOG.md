@@ -4,6 +4,7 @@
 
 ### 变更
 
+- 新增子模块 `data/brochure`（仓 quanttide-brochure-of-social-media），首篇：qtcloud-media-cli 介绍文章（公众号发布稿）
 - `apps/qtcloud-media` 发布 cli/v0.1.0（GitHub Release，tag cli/v0.1.0）；指针更新
 - `apps/qtcloud-media` CLI 排版改为逐元素全内联样式（去 `<style>` 块与 class，适配微信草稿箱清洗），publish 重新实测通过；指针更新
 - `data/library` 排版器清单收录 WeMD；指针更新

@@ -34,3 +34,6 @@
 [submodule "apps/qtmedia"]
 	path = apps/qtmedia
 	url = https://github.com/quanttide/qtmedia.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-social-media.git
