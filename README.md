@@ -20,7 +20,7 @@
 
 | 路径 | 说明 |
 |------|------|
-| `apps/qtcloud-media` | QtCloud 新媒体运营云 (git submodule) |
+| `apps/qtcloud-media` | QtCloud 媒体云 (git submodule) |
 | `apps/qtmedia` | 量潮媒体中心 (git submodule) |
 | `packages/quanttide-media-toolkit` | 新媒体运营标准库 (git submodule) |
 | `examples/quanttide-media-lab` | 新媒体运营实验室 (git submodule → quanttide-media-lab) |
