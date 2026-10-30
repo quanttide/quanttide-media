@@ -4,6 +4,7 @@
 
 ### 变更
 
+- `apps/qtcloud-media` 补 release-cli CI（cli/* tag → 三平台构建 + crates.io 发布，qtcloud-media-cli 0.1.0 已上架）；brochure 介绍文按反馈修订（cargo 安装、小标题统一、下一步改草稿质量评审）；指针更新
 - 产品名统一为「媒体云」：仓根 README 的 QtCloud 子模块说明、toolkit 示例界面标题（旧称「新媒体云」「新媒体运营云」，领域名「量潮新媒体运营」不变）；指针更新
 - 新增子模块 `data/brochure`（仓 quanttide-brochure-of-social-media），首篇：qtcloud-media-cli 介绍文章（公众号发布稿）
 - `apps/qtcloud-media` 发布 cli/v0.1.0（GitHub Release，tag cli/v0.1.0）；指针更新
