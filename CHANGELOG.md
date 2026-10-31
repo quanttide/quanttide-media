@@ -4,6 +4,7 @@
 
 ### 变更
 
+- `apps/qtcloud-media` 发布：cli v0.1.2（XDG 主题 + 草稿接力 + draft/update）、studio v0.1.1（主题参数化 + 草稿打开/保存）
 - `apps/qtcloud-media` 草稿接力：XDG state 草稿区（CLI `draft` 命令组 + 二次 publish 走 draft/update 更新同一篇 + studio 打开/保存）；指针更新
 - `apps/qtcloud-media` XDG 共享：CLI 按名称查 XDG 主题（paths.rs），studio 主题参数化并读同一份主题文件（theme.dart + paths_io.dart）；指针更新
 - `apps/qtcloud-media` studio 单页工作台（Flutter Web + Linux 桌面：编辑 + 公众号排版预览 + 富文本复制，已装本机 ~/.local）；cli 发布 v0.1.1（crates.io + GH Release，skills 命令组随版上架）、studio 发布 v0.1.0（GitHub Release）；指针更新
