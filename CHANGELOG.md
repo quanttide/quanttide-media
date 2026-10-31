@@ -5,6 +5,7 @@
 ### 变更
 
 - `apps/qtcloud-media` studio 网页托管上线（GitHub Pages 自动部署）+ Windows 发版打包 workflow
+- `apps/qtcloud-media` provider MVP（四动词薄服务 src/provider）：XDG 本地正本、复用 CLI 引擎、真实公众号端到端首验通过；指针更新
 - `apps/qtcloud-media` 发布：cli v0.1.2（XDG 主题 + 草稿接力 + draft/update）、studio v0.1.1（主题参数化 + 草稿打开/保存）
 - `apps/qtcloud-media` 草稿接力：XDG state 草稿区（CLI `draft` 命令组 + 二次 publish 走 draft/update 更新同一篇 + studio 打开/保存）；指针更新
 - `apps/qtcloud-media` XDG 共享：CLI 按名称查 XDG 主题（paths.rs），studio 主题参数化并读同一份主题文件（theme.dart + paths_io.dart）；指针更新
