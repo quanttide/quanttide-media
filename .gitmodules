@@ -37,3 +37,12 @@
 [submodule "data/brochure"]
 	path = data/brochure
 	url = https://github.com/quanttide/quanttide-brochure-of-social-media.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-social-media.git
+[submodule "docs/essay"]
+	path = docs/essay
+	url = https://github.com/quanttide/quanttide-essay-of-social-media.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-social-media.git

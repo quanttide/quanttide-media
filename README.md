@@ -33,6 +33,9 @@
 | `docs/handbook` | 新媒体运营手册 (git submodule → quanttide-handbook-of-social-media) |
 | `docs/tutorial` | 新媒体运营教程 (git submodule → quanttide-tutorial-of-social-media) |
 | `docs/specification` | 新媒体运营规范 (git submodule → quanttide-specification-of-social-media) |
+| `docs/gallery` | 新媒体运营案例集 (git submodule → quanttide-gallery-of-social-media) |
+| `docs/essay` | 新媒体运营随笔 (git submodule → quanttide-essay-of-social-media) |
+| `docs/bylaw` | 新媒体运营章程 (git submodule → quanttide-bylaw-of-social-media) |
 
 ## 许可
 

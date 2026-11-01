@@ -4,6 +4,8 @@
 
 ### 变更
 
+- 新增子模块 `docs/gallery`（仓 quanttide-gallery-of-social-media）、`docs/essay`（仓 quanttide-essay-of-social-media）、`docs/bylaw`（仓 quanttide-bylaw-of-social-media），骨架照同类样本仓初始化
+
 - `apps/qtcloud-media` studio 网页托管上线（GitHub Pages 自动部署）+ Windows 发版打包 workflow
 - `apps/qtcloud-media` provider MVP（四动词薄服务 src/provider）：XDG 本地正本、复用 CLI 引擎、真实公众号端到端首验通过；指针更新
 - `apps/qtcloud-media` 发布：cli v0.1.2（XDG 主题 + 草稿接力 + draft/update）、studio v0.1.1（主题参数化 + 草稿打开/保存）
